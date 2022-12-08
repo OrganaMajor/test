@@ -1,5 +1,6 @@
 from tkinter import *
 import random
+import time
 
 screen = Tk()
 screen.geometry("360x250")
