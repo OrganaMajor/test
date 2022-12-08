@@ -114,5 +114,5 @@ if scoreUser > scoreComputer:
 elif scoreComputer > scoreUser:
     print("Computer has won the game")
 else :
-    print("Same score: it's a tie!")
+    print("Same score: it's a tie lol!")
 """
